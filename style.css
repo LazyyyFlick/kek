@@ -1,0 +1,69 @@
+.sqr1{
+    width: 5vw;
+    height: 5vw;
+    background-color: blueviolet;
+    position: absolute;
+}
+.sqr2{
+    width: 5vw;
+    height: 5vw;
+    background-color: rosybrown;
+    margin: 3vw;
+    position: absolute;
+}
+.sqr3{
+    width: 5vw;
+    height: 5vw;
+    background-color: royalblue;
+    margin: 6vw;
+    position: absolute;
+}
+.box2{
+    margin-left: 15vw;
+}
+.sqrr1{
+    width: 5vw;
+    height: 5vw;
+    background-color: blueviolet;
+    position: absolute;
+}
+.sqrr2{
+    width: 5vw;
+    height: 5vw;
+    background-color: rosybrown;
+    margin: 3vw;
+    position: absolute;
+    z-index: 1;
+}
+.sqrr3{
+    width: 5vw;
+    height: 5vw;
+    background-color: royalblue;
+    margin: 6vw;
+    position: absolute;
+}
+.box3{
+    margin-left: 30vw;
+}
+.sprint1{
+    width: 5vw;
+    height: 5vw;
+    background-color: blueviolet;
+    z-index: 1;
+    position: absolute;
+}
+.sprint2{
+    width: 5vw;
+    height: 5vw;
+    background-color: rosybrown;
+    margin: 3vw;
+    position: absolute;
+}
+.sprint3{
+    width: 5vw;
+    height: 5vw;
+    background-color: royalblue;
+    margin: 6vw;
+    position: absolute;
+}
+
